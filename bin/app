@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+from app_src import main
+
+"""
+   blamonly ? a test for the snap of a core-blam
+"""
+
+def main_caller():
+    
+
+    print "here with the app"
+    main.say_hello()
+
+
+if __name__ == '__main__':
+    main_caller()

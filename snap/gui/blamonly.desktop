@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Exec=blamonly
+Name=blamonly App
+Icon=${SNAP}/meta/gui/icon.png
+Categories=Utility;
