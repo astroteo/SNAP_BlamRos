@@ -1,0 +1,3 @@
+Version ............ 0.0.2
+Commit ............. 8c53c4e0ebaee994e9b94effa990bf6ba7635fc2
+Commit msg ......... Use port /dev/arduino_imu instead of /dev/ttyACM0

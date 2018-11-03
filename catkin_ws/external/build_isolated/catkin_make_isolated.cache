@@ -1,0 +1,2 @@
+
+-DCMAKE_BUILD_TYPE=Release -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/teo/Documents/SNAP_cleanBlam/catkin_ws/external/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/teo/Documents/SNAP_cleanBlam/catkin_ws/external/install_isolated
